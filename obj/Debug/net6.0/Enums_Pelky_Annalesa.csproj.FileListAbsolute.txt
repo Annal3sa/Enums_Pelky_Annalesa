@@ -1,0 +1,14 @@
+C:\Users\AnnalesaPelky\source\repos\Enums_Pelky_Annalesa\bin\Debug\net6.0\Enums_Pelky_Annalesa.exe
+C:\Users\AnnalesaPelky\source\repos\Enums_Pelky_Annalesa\bin\Debug\net6.0\Enums_Pelky_Annalesa.deps.json
+C:\Users\AnnalesaPelky\source\repos\Enums_Pelky_Annalesa\bin\Debug\net6.0\Enums_Pelky_Annalesa.runtimeconfig.json
+C:\Users\AnnalesaPelky\source\repos\Enums_Pelky_Annalesa\bin\Debug\net6.0\Enums_Pelky_Annalesa.dll
+C:\Users\AnnalesaPelky\source\repos\Enums_Pelky_Annalesa\bin\Debug\net6.0\Enums_Pelky_Annalesa.pdb
+C:\Users\AnnalesaPelky\source\repos\Enums_Pelky_Annalesa\obj\Debug\net6.0\Enums_Pelky_Annalesa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnnalesaPelky\source\repos\Enums_Pelky_Annalesa\obj\Debug\net6.0\Enums_Pelky_Annalesa.AssemblyInfoInputs.cache
+C:\Users\AnnalesaPelky\source\repos\Enums_Pelky_Annalesa\obj\Debug\net6.0\Enums_Pelky_Annalesa.AssemblyInfo.cs
+C:\Users\AnnalesaPelky\source\repos\Enums_Pelky_Annalesa\obj\Debug\net6.0\Enums_Pelky_Annalesa.csproj.CoreCompileInputs.cache
+C:\Users\AnnalesaPelky\source\repos\Enums_Pelky_Annalesa\obj\Debug\net6.0\Enums_Pelky_Annalesa.dll
+C:\Users\AnnalesaPelky\source\repos\Enums_Pelky_Annalesa\obj\Debug\net6.0\refint\Enums_Pelky_Annalesa.dll
+C:\Users\AnnalesaPelky\source\repos\Enums_Pelky_Annalesa\obj\Debug\net6.0\Enums_Pelky_Annalesa.pdb
+C:\Users\AnnalesaPelky\source\repos\Enums_Pelky_Annalesa\obj\Debug\net6.0\Enums_Pelky_Annalesa.genruntimeconfig.cache
+C:\Users\AnnalesaPelky\source\repos\Enums_Pelky_Annalesa\obj\Debug\net6.0\ref\Enums_Pelky_Annalesa.dll
